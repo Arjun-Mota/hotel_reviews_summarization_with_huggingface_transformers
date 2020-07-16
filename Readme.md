@@ -2,7 +2,7 @@
 
  - Purpose of this project is to compare **text summarization** of **T5 and Bart transformers**.
    
- - 1142 reviews of hotels are used as a dataset for this
+ - 76000+ reviews of hotels are used as a dataset for this
    project taken from here:
    
 
